@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hideplayername",
+  "name": "HidePlayerName",
+  "description": "隐藏玩家名称",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JWJUN233233"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

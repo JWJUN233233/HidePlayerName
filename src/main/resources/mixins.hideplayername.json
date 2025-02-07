@@ -1,0 +1,11 @@
+{
+  "package": "me.ddggdd135.hideplayername.mixins",
+  "refmap": "mixins.hideplayername.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "client": [],
+  "mixins": [
+    "MixinGuiIngame",
+    "MixinRender"
+  ]
+}
